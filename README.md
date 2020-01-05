@@ -1,6 +1,6 @@
 # Random Chuck Norris Joke Challenge
 
-The objective of this challenge is to create a web app that fetches a random quote from the Chuck Norris API using JavaScript. The user should also be able to tweet out the joke.
+Everybody loves Chuck Norris Jokes 😂. The objective of this challenge is to create a web app that fetches a random joke from the Chuck Norris API using JavaScript. 
 
 Requirements:
 - display a random joke every time a user clicks a button
